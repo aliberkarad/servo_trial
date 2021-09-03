@@ -1,5 +1,4 @@
 #  SERVO MOTOR APPLICATION with RASPBERRY PI
-
 ### Libraries
 ```
 import RPi.GPIO as GPIO
