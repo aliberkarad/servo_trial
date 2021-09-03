@@ -11,7 +11,6 @@ try:
         servo.ChangeDutyCycle(2+(angle/18))
         time.sleep(0.5)
         servo.ChangeDutyCycle(0)
-
 finally:
     servo.stop()
     GPIO.cleanup()

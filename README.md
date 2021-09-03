@@ -32,6 +32,7 @@ servo.ChangeDutyCycle(2+(angle/18))
 time.sleep(0.5)
 servo.ChangeDutyCycle(0)
 ```
+
 ###### Stopped everything
 ```
 finally:
