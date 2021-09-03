@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #  SERVO MOTOR APPLICATION with RASPBERRY PI
 ### Libraries
 ```
@@ -41,6 +40,3 @@ finally:
     GPIO.cleanup()
     print("END")
 ```
-=======
-# servo_trial
->>>>>>> 749608bd07c90e598b965602c6aab52c5e6dc0cf
